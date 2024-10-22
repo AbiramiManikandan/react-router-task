@@ -11,7 +11,7 @@ This project is a React application using Vite for development, React Router for
 
 ## Demo
 
-Check out the live demo of the project [here]().
+Check out the live demo of the project [here](https://cheery-churros-523068.netlify.app/).
 
 ---
 
