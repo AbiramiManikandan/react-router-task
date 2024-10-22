@@ -11,7 +11,7 @@ This project is a React application using Vite for development, React Router for
 
 ## Demo
 
-Check out the live demo of the project [here](https://arunkarthik0710-react-router-task.netlify.app/).
+Check out the live demo of the project [here]().
 
 ---
 
@@ -50,7 +50,7 @@ react-router-task/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/arunkarthik0712/react-router-task.git
+git clone https://github.com/AbiramiManikandan/react-router-task.git
 ```
 
 2. Navigate to the project directory:
@@ -75,7 +75,7 @@ npm install
 npm run dev
 ```
 
-2. Open your browser and go to `http://localhost:5173` to see the application.
+2. Open your browser and go to `http://localhost:3002/` to see the application.
 
 ---
 
